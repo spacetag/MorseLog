@@ -1,0 +1,24 @@
+{
+    "author": "freethingsare@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebble-text-input",
+    "pebble": {
+        "displayName": "Pebble Text Input",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "1775d0a1-ae5d-4dfc-877b-474ed27ea292",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
